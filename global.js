@@ -1,0 +1,1 @@
+document.getElementById("jins").HTML="<h2>TTTT</h2>";
