@@ -1,1 +1,1 @@
-document.getElementById("jins").HTML="<h2>TTTT</h2>";
+document.getElementById("jins").innerHTML="<h2>TTTT</h2>";
